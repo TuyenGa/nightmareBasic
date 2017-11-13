@@ -1,0 +1,28 @@
+{
+  "name": "basicnightmare",
+  "version": "1.0.0",
+  "description": "cao du lieu",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuyenGa/nightmareBasic.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "vuong quang tuyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TuyenGa/nightmareBasic/issues"
+  },
+  "homepage": "https://github.com/TuyenGa/nightmareBasic#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "electron": "^1.7.9",
+    "nightmare": "^2.10.0",
+    "node-cron": "^1.2.1"
+  }
+}
